@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Target
+  - Spear
+  - Enemy
+  - Civilian
+  - House
+  - Terrain
+  - ControlChange
+  - EnemyBoss
+  - EnemySpear
+  - NetworkPlayer
+  - NetworkSpear
+  - MoveTarget
+  - Spawner
+  - Debris
+  - Bone
+  - PlayerBones
+  - FreeFlightCamera
+  - FirstPersonCamera
+  - PlayerSpearSpawn
+  - EnemySpearSpawn
+  - StillFlightCamera
+  - MoveTarget2
+  - MoveTarget3
+  - TextBoxLife
+  - TextBoxScore
+  - Menu
+  - Meat
+  - NoBoss
+  - EnemyFlee1
+  - EnemyFlee2
+  - EnemyFlee3
+  - EnemyFlee5
+  - SpawnerGround
+  - Bouncer
+  - Raptor
+  - Tentacle
+  - EventSystem
+  - LevelSelectButton
+  - Lizard
+  - Army1-Soldier1
+  - Army1-Soldier2
+  - Army1-Soldier3
+  - Army1-Soldier4
+  - Army1-Soldier5
+  - Army2-Soldier1
+  - Army2-Soldier2
+  - Army2-Soldier3
+  - Army2-Soldier4
+  - Army2-Soldier5
+  - Army1-Base
+  - Army1-Base2
+  - Army1-Base3
+  - Army2-Base
+  - Army2-Base2
+  - Army2-Base3
+  - Soldier1-Spear
+  - Soldier2_Spear
+  - SimpleControlsButton
+  - LocalAvatar
+  - SpearSpawnMiddle
+  - SpearSpawnLeft
+  - SpearSpawnRight
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Spear
+  - Player
+  - Enemy Spear
+  - Target
+  - Enemy Man
+  - Enemy Pteradactyl
+  - Civilian
+  - Terrain
+  - Soldier1
+  - Soldier2
+  - MEAT
+  - VolcanicDebris
+  - EnemyLiz
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
